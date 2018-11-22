@@ -19,6 +19,7 @@ public class GsonTest {
 
         System.out.println("请输入");
         System.out.println("修改1");
+        System.out.println("修改2");
 
 
 

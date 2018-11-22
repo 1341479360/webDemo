@@ -17,8 +17,7 @@ public class GsonTest {
     public static void main(String[] args) {
 
 
-        System.out.println("请输入");
-
+        System.out.println("新增功能1");
 
 
 

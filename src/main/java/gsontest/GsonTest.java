@@ -1,12 +1,6 @@
-package GsonTest;
-
-import JsonTest.User;
-import com.alibaba.fastjson.JSONObject;
-import com.google.gson.Gson;
-import javafx.scene.control.TableView;
-
-import java.util.HashMap;
+package gsontest;
 import java.util.Scanner;
+import java.util.HashMap;
 
 /**
  * @author Dhao
@@ -16,8 +10,11 @@ public class GsonTest {
 
     public static void main(String[] args) {
 
-
         System.out.println("新增功能1");
+
+        System.out.println(
+                "增加很多功能"
+        );
 
 
 

@@ -8,6 +8,8 @@ public class Debug {
 
     public static void main(String[] args) {
 
+
+        System.out.println("v1.1版本");
         System.out.println("修改buger");
     }
 }

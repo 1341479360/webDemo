@@ -15,7 +15,9 @@ public class Test1Controller {
 
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("");
+        System.out.println("123");
+        System.out.println("258");
+
 
     }
 }
